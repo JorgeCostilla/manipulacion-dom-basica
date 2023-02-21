@@ -1,0 +1,3 @@
+#### Conectar GitHub a proyectos con JS
+En este ejercicio conectamos github con mi proyectos.
+En el archivo .gitignore nos podemos meter a la pagina gitignore.io y colocar las restricciones que queremos
